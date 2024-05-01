@@ -496,6 +496,13 @@ ul.social_top_icon li a:hover {
     color: #000;
 }
 
+.bold_text_orange {
+    font-size: 224px;
+    line-height: 40px;
+    text-transform: lowercase;
+    color: #000;
+}
+
 .main_text span {
     font-size: 23px;
     line-height: 24px;
