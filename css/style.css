@@ -492,7 +492,7 @@ ul.social_top_icon li a:hover {
 .bold_text_black {
     font-size: 224px;
     line-height: 40px;
-    text-transform: uppercase;
+    text-transform: none;
     color: #000;
 }
 
