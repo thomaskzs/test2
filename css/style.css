@@ -492,14 +492,14 @@ ul.social_top_icon li a:hover {
 .bold_text_black {
     font-size: 224px;
     line-height: 40px;
-    text-transform: lowercase;
+    text-transform: none;
     color: #000;
 }
 
 .bold_text_orange {
     font-size: 224px;
     line-height: 40px;
-    text-transform: none;
+    text-transform: uppercase;
     color: #eb622c;
 }
 
