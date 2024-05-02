@@ -616,7 +616,7 @@ ul.social_top_icon li a:hover {
 
 .black_orange {
     color: #ff8c00;
-    text-transform: lowercase;
+    /*----- text-transform: lowercase; -----*/
 }
 
 .pa-ing {
